@@ -1,0 +1,7 @@
+Vous avez devant vous un cercle qui correspond à un mélange de 3 couleurs. Un panel de 15 carrés de couleurs vous est proposé.
+Vous devez mélanger 3 de ces carrés de couleur afin de retrouver celles utilisées pour créer la couleur du cercle.
+La première couleur choisie représentera 50% de la couleur à trouver, la 2ème couleur représentera 30% de la couleur à trouver et la 3ème couleur représentera 20%.
+A chaque essai, vous aurez pour vous aidez un historique:
+- les couleurs entourées en jaune signifient qu'elles font parti de l'assemblage de couleurs mais qu'elles ne se trouvent pas à la bonne place.
+- les couleurs entourées en vert signifient qu'elles font parti de l'assemblage de couleurs et qu'elles sont à la bonne place.
+Vous disposez de 7 essais ! A vos couleurs !
